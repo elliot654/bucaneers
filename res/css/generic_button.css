@@ -1,0 +1,26 @@
+Button {
+    -fx-border-color: black;
+    -fx-border-width: 0.2em;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: silver;
+    -fx-font-size: 1em;
+    -fx-text-fill: black;
+}
+
+Button:hover {
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+}
+
+Button:focused {
+    -fx-border-color: green;
+    -fx-border-width: 0.2em;
+    -fx-border-radius: 0;
+}
+
+Button:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-border-color: grey;
+}

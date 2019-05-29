@@ -1,0 +1,29 @@
+-- This file contains chance card texts. Please put card n on line n+1, Each text should take up 1 line.
+Your ship is blown 5 leagues (5 squares) off the coast of Treasure Island. If your crew total is 3 or less, take 4 crew cards from Pirate Island. If the square you are blown to is already occupied, move one square further)
+Present this card to any player who must then give you 3 crew cards. This card must be used at once then returned to the Chance card pack.
+You are blown to Mud Bay. If your crew total is 3 or less, take 4 crew cards from Pirate Island.
+You are blown to Cliff Creek. If your crew total is 3 or less, take 4 crew cards from Pirate Island.
+You are blown to your Home Port. If your crew total is 3 or less, take 4 crew cards from Pirate Island
+You are blown to Amsterdam. If your crew total is 3 or less, take 4 crew cards from Pirate Island.
+One treasure from your ship or 2 crew cards from your hand are lost and washed overboard to the nearest ship.
+One treasure from your ship or 2 crew cards from your hand are lost and washed overboard to Flat Island.
+Your most valuable treasure on board or if no treasure, the best crew card from your hand is washed overboard to Flat Island.
+The best crew card in your hand deserts for Pirate Island. The card must be placed there immediately.
+Take treasure up to 5 in total value, or 2 crew cards from Pirate Island.
+Take treasure up to 4 in total value, or 2 crew cards from Pirate Island.
+Take treasure up to 5 in total value, or 2 crew cards from Pirate Island.
+Take treasure up to 7 in total value, or 3 crew cards from Pirate Island.
+Take 2 crew cards from Pirate Island
+Take treasure up to 7 in total value and reduce your ship's crew to 10, by taking crew cards from your hand and placing them on Pirate Island
+Take treasure up to 6 in total value and reduce your ship's crew to 11, by taking crew cards from your hand and placing them on Pirate Island.
+Take treasure up to 4 in total value, and if your crew total is 7 or less, take 2 crew cards from Pirate Island.
+Exchange all crew cards in your hand as far as possible for the same number of crew cards from Pirate Island.
+If the ship of another player is anchored at Treasure Island, exchange 2 of your crew cards with that player. If there is no other player at Treasure Island, place 2 of your crew cards on Pirate Island.
+Long John Silver (Keep this card). As payment for safe passage to Venice, Long John Silver will reward you with Treasure up 7 in total value.
+Yellow fever! An epidemic of yellow fever strikes all ships and reduces the number of crew. Every player with more than 7 crew cards in their hand must bury the surplus crew cards at once on Pirate Island.
+Doubloons (Keep this card). This card may be traded for crew or treasure up to value 5 in any port you visit.
+Pieces of eight (Keep this card). This card may be traded for crew or treasure up to value 4 in any port you visit.
+Kidd's chart (Keep this card). You may sail to the far side of Pirate Island, on to the square marked with an anchor. Land this chart there, and take treasure up to 7 in total value from Treasure Island
+Kidd's chart (Keep this card). You may sail to the far side of Pirate Island, on to the square marked with an anchor. Land this chart there, and take treasure up to 7 in total value from Treasure Island.
+Take treasure up to 5 in total value, or 3 crew cards from Pirate Island.
+Take 2 crew cards from Pirate Island

@@ -1,0 +1,11 @@
+GridPane {
+    -fx-padding: 4.5em;
+    -fx-hgap: 1.5em;
+    -fx-vgap: 1.5em;
+    -fx-alignment: center;
+}
+
+TextField {
+    -fx-border-width: 0.2em;
+    -fx-border-color: black;
+}

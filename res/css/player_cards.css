@@ -1,0 +1,22 @@
+GridPane {
+    -fx-alignment: center;
+}
+
+GridPane:hover {
+    -fx-background-color: grey;
+}
+
+Pane {
+    /*-fx-cursor: hand;*/
+    -fx-border-width: 0.1em;
+    -fx-border-color: black;
+}
+
+#left-wrapper {
+    -fx-border-width: 0 0.15em 0 0;
+    -fx-border-color: black;
+}
+#right-wrapper {
+    -fx-border-width: 0 0 0 0.15em;
+    -fx-border-color: black;
+}

@@ -1,0 +1,33 @@
+* {
+    -fx-font-size: 1em;
+    -fx-font-weight: 100;
+    /*-fx-font-family: "ariel";*/
+    -fx-text-fill: black;
+}
+
+.headerPane, .treasureHmPrt, .treasureShip {
+    -fx-padding: 0.4em 0 0 0.8em;
+}
+
+.treasureHmPrt, .treasureShip {
+    -fx-background-color: transparent;
+}
+
+.playerPane {
+    -fx-background-color: silver;
+}
+
+.playerCards, .treasureTxt, .scrollPaneUp, .scrollPaneDwn {
+    -fx-border-width: 0.1em;
+    -fx-border-color: black;
+    -fx-background-color: transparent;
+}
+
+.headerPane {
+    -fx-border-width: 0.1em;
+    -fx-border-color: black;
+}
+
+ScrollPane > * {
+    -fx-background-color: transparent;
+}

@@ -1,0 +1,17 @@
+GridPane {
+    -fx-padding: 0;
+    -fx-spacing: 0;
+    -fx-hgap: 0;
+    -fx-vgap: 0;
+    -fx-border-width: 0.1em;
+    -fx-border-color: black;
+    -fx-background-color: silver;
+}
+
+GridPane > * {
+    -fx-padding: 0;
+    -fx-spacing: 0;
+    -fx-hgap: 0;
+    -fx-vgap: 0;
+    -fx-alignment: center;
+}
